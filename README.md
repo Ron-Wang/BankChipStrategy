@@ -7,7 +7,7 @@
 一个基于聚宽平台的ETF量化交易策略。核心逻辑极其简单：**60%银行ETF + 40%芯片ETF，每季度末强制再平衡**。没有择时，没有止损，没有估值判断，仅凭纪律执行。回测数据显示，2022年12月至2026年4月期间，策略总收益达**101.84%**，年化收益**24.68%**，夏普比率**1.07**，季度胜率**100%**。
 
 <div align="center">
-  <img src=https://github.com/Ron-Wang/FundIndustryPosition/blob/main/avg_results/avg_results.png width=800dp>
+  <img src=https://github.com/Ron-Wang/BankChipStrategy/blob/main/nav_curve_Q.png width=800dp>
 </div>
 
 > 完整的回测分析和风险讨论详见：[聚宽社区原文](https://www.joinquant.com/view/community/detail/0aa1ddbb5fd49699d8f1391a4b289261)
